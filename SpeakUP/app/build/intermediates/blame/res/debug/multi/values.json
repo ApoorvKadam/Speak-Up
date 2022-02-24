@@ -1,0 +1,1340 @@
+[
+    {
+        "outputFile": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 46,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 46,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 44,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 44,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 44,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 48,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 48,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 41,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 41,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 52,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 51,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 51,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 45,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 45,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 37,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 37,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 47,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 47,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 40,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 40,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 45,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 45,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 41,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 37,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 37,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 39,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 39,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 97,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 97,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 62,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 58,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 58,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1394
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1399,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 46,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 46,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 44,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 44,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 44,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 48,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 48,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 41,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 41,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 52,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 51,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 51,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 45,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 45,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 37,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 37,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 47,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 47,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 40,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 40,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 45,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 45,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 41,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 37,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 37,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 39,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 39,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 97,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 97,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 62,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 58,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 58,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1394
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1399,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 46,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 46,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 44,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 44,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 44,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 48,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endColumn": 48,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 41,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 41,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 52,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 51,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 51,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 45,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 45,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 37,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 37,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 47,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 47,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 40,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 40,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 45,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 45,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 41,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 41,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 37,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 37,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 39,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 39,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 97,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 97,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 56,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 62,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 58,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 58,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1394
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1399,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

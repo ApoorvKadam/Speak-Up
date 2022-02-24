@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_icon.gif",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\drawable-hdpi\\speech_icon.gif"
+    },
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/speech_icon.gif",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/drawable-hdpi/speech_icon.gif"
+    },
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_main.jpg",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/app/src/main/res/drawable-hdpi/icon_main.jpg"
+    },
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_main.jpg",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\drawable-hdpi\\icon_main.jpg"
+    },
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_icon.gif",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\android\\Desktop\\SpeakUP1\\app\\src\\main\\res\\drawable-hdpi\\speech_icon.gif"
+    },
+    {
+        "merged": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_main.jpg",
+        "source": "/Users/bibek/Downloads/kashipara.com_speakup1-zip/SpeakUP1/C:\\Users\\nit\\Desktop\\SpeakUP1\\app\\src\\main\\res\\drawable-hdpi\\icon_main.jpg"
+    }
+]
